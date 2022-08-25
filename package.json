@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "monero-javascript": "^0.7.3"
+  }
+}
